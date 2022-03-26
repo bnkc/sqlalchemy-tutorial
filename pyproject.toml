@@ -22,7 +22,7 @@ python = "^3.8"
 sqlalchemy = "*"
 pymysql = "*"
 python-dotenv = "*"
-loguru = "^0.5.3"
+loguru = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "*"
